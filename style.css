@@ -1,0 +1,48 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+  
+  }
+  
+  h2 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+  }
+  
+  .header_div p {
+    font-family: 'Special Elite', cursive;
+    color: linear-gradient(145deg, #FC00FF 0%, #00DBDE 100%);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .main_div button {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+    border-radius: 15px;
+  }
+  
+  .copy_right_footer {
+    position: fixed;
+    color: #000000;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+  }
+  
+   label {
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 50px;
+   }
